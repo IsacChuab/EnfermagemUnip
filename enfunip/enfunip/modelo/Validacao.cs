@@ -9,7 +9,7 @@ namespace enfunip.modelo
 {
     class Validacao
     {
-        public String usuario;
+        public String usuario; //teste
         public String senha;
         public String mensagem;
 
